@@ -1,3 +1,5 @@
+-- PAPOL AR2 ESP (FLSV on Discord) --
+
 -- Services
 local run_service = game:GetService("RunService")
 local camera = workspace.CurrentCamera

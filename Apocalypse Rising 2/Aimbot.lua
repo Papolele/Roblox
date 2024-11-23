@@ -1,4 +1,4 @@
--- PAPOL AIMBOT (FLSV / PAPOL#0066) --
+-- PAPOL AR2 AIMBOT (FLSV on Discord) --
 
 -- Settings
 local Settings = {
